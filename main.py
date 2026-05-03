@@ -257,7 +257,7 @@ with tab2:
     fig1.update_layout(
         template="plotly_white",
         xaxis_title="Quarter",
-        yaxis_title="MFG_GVA",
+        yaxis_title="MFG_GVA_GROWTH_RATE_%",
         hovermode="x unified",
         showlegend=True
     )
@@ -345,7 +345,7 @@ with tab2:
         fig2.update_layout(
             template="plotly_white",
             xaxis_title="Quarter",
-            yaxis_title="MFG_GVA",
+            yaxis_title="MFG_GVA_GROWTH_RATE_%",
             hovermode="x unified",
             showlegend=True
         )
@@ -481,7 +481,7 @@ with tab3:
     fig3.update_layout(
         template="plotly_white",
         xaxis_title="Quarter",
-        yaxis_title="MFG_GVA Forecast",
+        yaxis_title="MFG_GVA Growth Rate % Forecast",
         hovermode="x unified",
         legend_title="Forecast bands",
     )
