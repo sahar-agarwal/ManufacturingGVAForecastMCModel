@@ -1,4 +1,4 @@
-# Manufacturing GVA Forecast MC Model
+# Manufacturing GVA Growth Rate Forecast MC Model
 
 # India Future Trajectory
 
